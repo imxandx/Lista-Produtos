@@ -21,8 +21,10 @@ body {
     padding: 10px;
     margin: auto;
     margin-top: 5%;
-    border: 1px solid #717171;
+    border: none;
+    box-shadow: 6px 8px 20px #333;
     border-radius: 8px;
+    background-color: rgb(240, 240, 240);
 }
 
 
